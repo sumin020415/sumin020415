@@ -7,6 +7,15 @@
 ## Profile
 - `Name` : Park Sumin
 - `Email` : Sumini0759@naver.com
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sumin020415&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sumin020415"
+    width="800"
+    height="120"
+  />
+</a>
  
 ## GitHub Stat and Languages
 <p align='center'>
