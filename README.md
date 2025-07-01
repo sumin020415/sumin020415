@@ -5,16 +5,12 @@
 </p>
 
 ## Profile
-- `Name` : Sung MyungGun (Hugo)
-- `Email` : personar95@naver.com
-- 🔭 I'm currently working as an **IoT instructor**
-  - Major : C#, Smart Factory, IoT Development
-  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
+- `Name` : Park Sumin
+- `Email` : Sumini0759@naver.com
  
 ## GitHub Stat and Languages
-<!-- username은 본인걸로 -->
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
+  <a href="https://github.com/sumin020415">
     <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
   </a>
@@ -22,8 +18,6 @@
 
 ## Using Languages
 <p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
-    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
     <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
     <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
     <img width="40" height="40" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin" title="Kotlin">
@@ -35,6 +29,8 @@
     <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
     <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server" title="SQL Server">
     <img width="40" height="40" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" title="MySQL/MariaDB">
+<!--     <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
+    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++"> -->
 </p>
 
 ## Using Technics
