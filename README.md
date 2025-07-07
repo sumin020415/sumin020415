@@ -27,51 +27,42 @@
 
 ## Using Languages
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" height="40" title="Python"/>
-  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" height="40" title="Java"/>
-  <img src="https://img.icons8.com/color/48/kotlin.png" height="40" title="Kotlin"/>
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" title="JavaScript"/>
-  <img src="https://img.icons8.com/?size=100&id=vgMoO3QkEnKf&format=png&color=000000" height="40" title="Visual Basic"/>
-  <img src="https://img.icons8.com/cute-clipart/64/go-logo.png" height="40" title="Go"/>
-  <img src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000" height="40" title="Delphi"/>
-  <img src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" height="40" title="PHP"/>
-  <img src="https://img.icons8.com/nolan/64/oracle-logo.png" height="40" title="Oracle DB"/>
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="40" title="SQL Server"/>
-  <img src="https://img.icons8.com/fluency/48/maria-db.png" height="40" title="MySQL / MariaDB"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" height="40" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" height="40" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" height="40" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" height="40" title="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="40" title="Java"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" height="40" title="Python"/>
 </p>
 
 ## Using Technics
 <p align="left">
-  <img src="https://raw.githubusercontent.com/hugoMGSung/hugoMGSung/main/images/wpf.png" height="40" title="WPF"/>
-  <img src="https://cdn-icons-png.flaticon.com/256/7808/7808214.png" height="40" title="Smart Factory"/>
-  <img src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" height="40" title="ASP.NET Core"/>
-  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="40" title="Spring Boot"/>
-  <img src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" height="40" title="FullStack"/>
-  <img src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" height="40" title="Data Analysis"/>
-  <img src="https://img.icons8.com/?size=100&id=UeryvfCLUAc3&format=png&color=000000" height="40" title="ML / DL"/>
-  <img src="https://img.icons8.com/fluency/48/docker.png" height="40" title="Docker"/>
-  <img src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" height="40" title="OpenCV"/>
-  <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" height="40" title="Arduino"/>
-  <img src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" height="40" title="Raspberry Pi"/>
-  <img src="https://mosquitto.org/stickers/mosquitto-mono.png" height="40" title="MQTT"/>
-</p>
-## Using Tools
-<p align="left">
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="40" title="VS Code"/>
-  <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" height="40" title="Visual Studio"/>
-  <img src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" height="40" title="JetBrains IDEs"/>
-  <img src="https://img.icons8.com/color/48/android-studio--v3.png" height="40" title="Android Studio"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" height="40" title="React"/>
+  <img src="https://img.icons8.com/color/48/vue-js.png" height="40" title="Vue.js"/>
+  <img src="https://img.icons8.com/fluency/48/vite.png" height="40" title="Vite"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" height="40" title="Spring Boot"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" height="40" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" height="40" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" height="40" title="Oracle"/>
+  <img src="https://img.icons8.com/color/48/mongo-db.png" height="40" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" height="40" title="Pandas"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" height="40" title="NumPy"/>
 </p>
 
-<!--
-## 기술명세
-| 기술분류 | 설명 |
-|:---:|:---:|
-|VSCode | VisualStudio Code 툴 사용법 습득|
-|Python | 빅데이터분석, 머신러닝, OpenCV|
--->
+## Using Tools
+<p align="left">
+  <img src="https://img.icons8.com/color/48/git.png" height="40" title="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/github.png" height="40" title="GitHub"/>
+  <img src="https://img.icons8.com/fluency/48/docker.png" height="40" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/linux--v1.png" height="40" title="Linux"/>
+  <img src="https://img.icons8.com/color/48/npm.png" height="40" title="npm"/>
+  <img src="https://img.icons8.com/glyph-neue/64/notion.png" height="40" title="Notion"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png" height="40" title="Figma"/>
+</p>
 
 ## Project List
 - [Team mini(1)] [편의점 재고관리 시스템](https://github.com/sumin020415/-Inventory-management)
+- [Team mini(2)] [안밤(안전 밤길)/지도기반 커뮤니티](https://github.com/sumin020415/project_2)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
