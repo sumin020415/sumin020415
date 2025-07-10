@@ -9,11 +9,11 @@
 - `Email` : Sumini0759@naver.com
 
 
-<a href="<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sumin020415&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sumin020415&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/sumin020415"
   width="600"
-  height="300"
+  height="400"
 />
 </a>">
 <img
