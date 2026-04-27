@@ -6,7 +6,7 @@
 
 ## Profile
 - `Name` : Park Sumin
-- `Email` : Sumini0759@naver.com
+- `Email` : sumini0759@kakao.com
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sumin020415&utm_content=farm">
